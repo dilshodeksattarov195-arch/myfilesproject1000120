@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailperify",
+        "uuid": 220320,
+        "checksum": "bly2h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
